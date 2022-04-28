@@ -65,7 +65,7 @@ async def on_ready():
 
 
 ######### Func barra de att #####
-  for i in range(0): 
+  for i in range(1,3): 
     with alive_bar(100, ctrl_c=False, title=f'Atualização {i}') as bar:
         for i in range(100):
             time.sleep(0.02)
