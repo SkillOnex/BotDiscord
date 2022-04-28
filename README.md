@@ -1,7 +1,7 @@
 
 # 🤖 Bot para discord 🤖
 
-Bot para moderar e enteragir no discord 
+Bot para moderar e interagir no discord 
 
 
 ## Requirements
