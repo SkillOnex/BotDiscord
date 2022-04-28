@@ -40,7 +40,8 @@ Instale python 3.10
 - e outros
 
 
-## Screenshots
+## Screenshots  
+
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/931969872278200350/968938939069112390/unknown.png)
 
@@ -53,6 +54,10 @@ Instale python 3.10
 ![App Screenshot](https://cdn.discordapp.com/attachments/931969872278200350/969293632291086406/unknown.png)
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/931969872278200350/969294065382350858/unknown.png)
+
+![App Screenshot](https://media.discordapp.net/attachments/967826193552388106/969300803355566211/unknown.png)
+
+![App Screenshot](https://cdn.discordapp.com/attachments/967824583572996137/969301541569851502/unknown.png)
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/931969872278200350/969294177189908511/unknown.png)
 
