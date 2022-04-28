@@ -82,6 +82,7 @@ async def on_ready():
   print("\n")   
   print(f"Logado em  {bot.user}")
   print("\n")   
+  #bot.get_chaneel(id do canal pra mandar a msg automatica)
   channel = bot.get_channel(123)
   await channel.send("Entou pronto para trabalhar!")
 
@@ -90,7 +91,7 @@ async def on_ready():
 async def ch_pr():
   await bot.wait_until_ready()
 
-  statues = [f"Em Desenvolvimento", f"Ativo em  {len(bot.guilds)} Servers / !userhelp ","SkillOnex & Benvenutti"]
+  statues = [f"Em Desenvolvimento", f"Ativo em  {len(bot.guilds)} Servers / !userhelp ","SkillOnex & Benvenutti"] #msg de status do bot
   
   while not bot.is_closed():
 
