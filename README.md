@@ -49,7 +49,11 @@ Instale python 3.10
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/931969872278200350/968939037085794374/unknown.png)
 
-![App Screenshot](https://cdn.discordapp.com/attachments/931969872278200350/969292395445362728/unknown.png)
+![App Screenshot](https://cdn.discordapp.com/attachments/934959551596347406/969302164201672724/unknown.png)
+
+![App Screenshot](https://cdn.discordapp.com/attachments/934959551596347406/969302053249749032/unknown.png)
+
+![App Screenshot](https://cdn.discordapp.com/attachments/934959551596347406/969302129128898580/unknown.png)
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/931969872278200350/969293632291086406/unknown.png)
 
